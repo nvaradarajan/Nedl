@@ -1,0 +1,5 @@
+   Number         Restaurant Name                        Ratings[1-5]     
+   1       test1       1     
+   2       test2       3     
+   3       test3       4     
+ 
